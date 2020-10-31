@@ -1,0 +1,40 @@
+0	M	10	John		Johnstudent@gmail.com
+0	M	10	Max		Maxstudent@gmail.com
+1	F	9	Carol		Carolstudent@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

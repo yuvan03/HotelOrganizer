@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Room
+comment1.params=
+comment1.target=Room()
+comment2.params=gender\ grade
+comment2.target=int\ get(char,\ int)
+comment3.params=name\ gender\ email\ grade\ roomNo
+comment3.target=void\ store(java.lang.String,\ char,\ java.lang.String,\ int,\ int)
+comment4.params=SName
+comment4.target=void\ otherStd(java.lang.String)
+comment5.params=n
+comment5.target=void\ roomDetails(int)
+comment6.params=
+comment6.target=void\ printEmpty()
+comment7.params=Gender\ grade
+comment7.target=void\ inputGradeGender(char,\ int)
+comment8.params=
+comment8.target=void\ hotelData()
+numComments=9

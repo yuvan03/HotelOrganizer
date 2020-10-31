@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Trip
+comment1.params=
+comment1.target=Trip()
+comment2.params=
+comment2.target=void\ displayAll()
+comment3.params=
+comment3.target=void\ inputRoom()
+comment4.params=
+comment4.target=void\ otherStds()
+comment5.params=
+comment5.target=void\ removeStd()
+comment6.params=filename\ std
+comment6.target=void\ write(java.lang.String,\ Student[])
+comment7.params=
+comment7.target=void\ input()
+comment8.params=
+comment8.target=void\ report()
+numComments=9
